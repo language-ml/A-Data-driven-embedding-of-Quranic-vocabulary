@@ -1,0 +1,1 @@
+The similarities results for 3 level root, lemma, and surface form mapping for dimension size, 50, 100, 200, 500, and window-size 3, 5, 10, 20 can be downloaded from [here](https://drive.google.com/file/d/18C1BNJ_YkGXGIZqZxPRqsG6FRakbR8OG/view?usp=sharing).
